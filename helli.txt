@@ -1,1 +1,2 @@
 hello, git
+Hi i am a message from branch 1
